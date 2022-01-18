@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\movie_row.xml",
+        "source": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\src\\main\\res\\layout\\movie_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_movie_details.xml",
+        "source": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\src\\main\\res\\layout\\activity_movie_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\webview.xml",
+        "source": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\src\\main\\res\\layout\\webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_movie_details.xml",
+        "source": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\src\\main\\res\\layout\\content_movie_details.xml"
+    }
+]

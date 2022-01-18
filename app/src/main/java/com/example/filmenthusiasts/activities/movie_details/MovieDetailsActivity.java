@@ -64,8 +64,8 @@ public class MovieDetailsActivity extends AppCompatActivity {
                 .into(imageviewPoster);
 
         buttonBook.setOnClickListener((view) -> {
-//            Intent i = new Intent(this, WebsiteActivity.class);
-//            startActivity(i);
+            Intent i = new Intent(this, WebsiteActivity.class);
+            startActivity(i);
         });
     }
 }

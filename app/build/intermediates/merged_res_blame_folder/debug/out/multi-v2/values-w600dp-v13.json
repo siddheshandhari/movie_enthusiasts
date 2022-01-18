@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "41",
+                        "endOffsets": "53"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\src\\main\\res\\values-w600dp\\strings.xml",
+                    "from": {
+                        "startLines": "8,5,6,4,7,2,3",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "333,185,239,137,289,57,97",
+                        "endColumns": "42,52,48,46,42,38,38",
+                        "endOffsets": "371,233,283,179,327,91,131"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "97,140,193,242,289,332,371",
+                        "endColumns": "42,52,48,46,42,38,38",
+                        "endOffsets": "135,188,237,284,327,366,405"
+                    }
+                }
+            ]
+        }
+    ]
+}

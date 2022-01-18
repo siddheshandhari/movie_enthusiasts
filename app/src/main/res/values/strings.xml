@@ -11,4 +11,11 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 
     <string name="book_now">Book Now</string>
+    <string name="name">Name:</string>
+    <string name="rank">Rank:</string>
+    <string name="duration">Duration:</string>
+    <string name="description">Description:</string>
+    <string name="directors">Directors:</string>
+    <string name="genres">Genres:</string>
+    <string name="actors">Actors:</string>
 </resources>
