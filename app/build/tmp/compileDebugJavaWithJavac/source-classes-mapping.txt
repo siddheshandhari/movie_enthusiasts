@@ -14,12 +14,15 @@ com/example/filmenthusiasts/databinding/WebviewBinding.java
  com.example.filmenthusiasts.databinding.WebviewBinding
 com/example/filmenthusiasts/network/RetrofitClientInstance.java
  com.example.filmenthusiasts.network.RetrofitClientInstance
-com/example/filmenthusiasts/activities/movie_details/MovieDetailsActivity.java
- com.example.filmenthusiasts.activities.movie_details.MovieDetailsActivity
+com/example/filmenthusiasts/activities/main_activity/MainActivity.java
+ com.example.filmenthusiasts.activities.main_activity.MainActivity
 com/example/filmenthusiasts/BuildConfig.java
  com.example.filmenthusiasts.BuildConfig
-com/example/filmenthusiasts/activities/website_webview/WebsiteActivity.java
- com.example.filmenthusiasts.activities.website_webview.WebsiteActivity
+com/example/filmenthusiasts/activities/main_activity/MainActivityModel.java
+ com.example.filmenthusiasts.activities.main_activity.MainActivityModel
+ com.example.filmenthusiasts.activities.main_activity.MainActivityModel$1
+ com.example.filmenthusiasts.activities.main_activity.MainActivityModel$2
+ com.example.filmenthusiasts.activities.main_activity.MainActivityModel$3
 com/example/filmenthusiasts/databinding/MovieRowBinding.java
  com.example.filmenthusiasts.databinding.MovieRowBinding
 com/example/filmenthusiasts/adapter/AllMovieAdapter.java
@@ -27,10 +30,7 @@ com/example/filmenthusiasts/adapter/AllMovieAdapter.java
  com.example.filmenthusiasts.adapter.AllMovieAdapter$AllMovieViewHolder
 com/example/filmenthusiasts/utils/Constants.java
  com.example.filmenthusiasts.utils.Constants
-com/example/filmenthusiasts/activities/main_activity/MainActivityModel.java
- com.example.filmenthusiasts.activities.main_activity.MainActivityModel
- com.example.filmenthusiasts.activities.main_activity.MainActivityModel$1
- com.example.filmenthusiasts.activities.main_activity.MainActivityModel$2
- com.example.filmenthusiasts.activities.main_activity.MainActivityModel$3
-com/example/filmenthusiasts/activities/main_activity/MainActivity.java
- com.example.filmenthusiasts.activities.main_activity.MainActivity
+com/example/filmenthusiasts/activities/movie_details/MovieDetailsActivity.java
+ com.example.filmenthusiasts.activities.movie_details.MovieDetailsActivity
+com/example/filmenthusiasts/activities/website_webview/WebsiteActivity.java
+ com.example.filmenthusiasts.activities.website_webview.WebsiteActivity
