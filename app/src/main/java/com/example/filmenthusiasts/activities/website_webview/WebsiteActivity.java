@@ -16,6 +16,6 @@ public class WebsiteActivity extends AppCompatActivity {
         setContentView(R.layout.webview);
         WebView webView = findViewById(R.id.webView_website);
         webView.getSettings().setJavaScriptEnabled(true);
-        webView.loadUrl("https://www.zocdoc.com/");
+        webView.loadUrl("https://www.google.com/");
     }
 }
