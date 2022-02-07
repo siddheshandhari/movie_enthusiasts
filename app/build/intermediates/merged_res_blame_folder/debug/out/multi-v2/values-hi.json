@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hi\\values-hi.xml",
+            "outputFile": "C:\\Users\\siddhesh\\AndroidStudioProjects\\FilmEnthusiasts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hi\\values-hi.xml",
             "map": [
                 {
                     "source": "C:\\Users\\siddhesh\\.gradle\\caches\\transforms-3\\ef532b6d1ae35b007ac277b7869ad55e\\transformed\\material-1.5.0\\res\\values-hi\\values-hi.xml",
@@ -57,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\siddhesh\\.gradle\\caches\\transforms-3\\36cdf5dbcc08234d686390d52065471d\\transformed\\core-1.8.0-alpha02\\res\\values-hi\\values-hi.xml",
+                    "source": "C:\\Users\\siddhesh\\.gradle\\caches\\transforms-3\\9df72d6715971608ef4e633d7d7fbff2\\transformed\\core-1.8.0-alpha03\\res\\values-hi\\values-hi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-am\\values-am.xml",
+            "outputFile": "C:\\Users\\siddhesh\\AndroidStudioProjects\\FilmEnthusiasts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-am\\values-am.xml",
             "map": [
                 {
                     "source": "C:\\Users\\siddhesh\\.gradle\\caches\\transforms-3\\402786d3f8dd3836d3b8e68e34bab33c\\transformed\\navigation-ui-2.3.5\\res\\values-am\\values-am.xml",
@@ -18,23 +18,6 @@
                         "startOffsets": "6822,6926",
                         "endColumns": "103,109",
                         "endOffsets": "6921,7031"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\siddhesh\\.gradle\\caches\\transforms-3\\36cdf5dbcc08234d686390d52065471d\\transformed\\core-1.8.0-alpha02\\res\\values-am\\values-am.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "90",
-                        "startColumns": "4",
-                        "startOffsets": "7192",
-                        "endColumns": "100",
-                        "endOffsets": "7288"
                     }
                 },
                 {
@@ -71,6 +54,23 @@
                         "endLines": "5,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,88",
                         "endColumns": "12,74,88,101,76,63,84,61,57,84,61,57,65,61,54,95,56,58,55,66,104,79,80,98,72,70,81,66,65,65,72,80,67,72,70,66,84,66,86,87,73,67,84,50,63,79,81,61,63,62,94,88,84,90,75",
                         "endOffsets": "261,2954,3043,3145,3222,3286,3371,3433,3491,3576,3638,3696,3762,3824,3879,3975,4032,4091,4147,4214,4319,4399,4480,4579,4652,4723,4805,4872,4938,5004,5077,5158,5226,5299,5370,5437,5522,5589,5676,5764,5838,5906,5991,6042,6106,6186,6268,6330,6394,6457,6552,6641,6726,6817,7107"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\siddhesh\\.gradle\\caches\\transforms-3\\9df72d6715971608ef4e633d7d7fbff2\\transformed\\core-1.8.0-alpha03\\res\\values-am\\values-am.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "90",
+                        "startColumns": "4",
+                        "startOffsets": "7192",
+                        "endColumns": "100",
+                        "endOffsets": "7288"
                     }
                 }
             ]

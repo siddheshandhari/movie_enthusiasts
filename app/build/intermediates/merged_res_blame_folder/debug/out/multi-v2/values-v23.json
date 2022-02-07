@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\siddhesh\\AndroidStudioProjects\\FilmEnthusiasts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\siddhesh\\.gradle\\caches\\transforms-3\\2df2fd862abbf632d93e5f75064e3846\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",

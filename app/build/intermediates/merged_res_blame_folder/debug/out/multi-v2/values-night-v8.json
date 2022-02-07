@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\siddhesh\\AndroidStudioProjects\\FilmEnthusiasts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\siddhesh\\AndroidStudioProjects\\FilmEnthusiasts\\app\\src\\main\\res\\values-night\\strings.xml",
+                    "from": {
+                        "startLines": "8,5,6,4,7,2,3",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "333,185,239,137,289,57,97",
+                        "endColumns": "42,52,48,46,42,38,38",
+                        "endOffsets": "371,233,283,179,327,91,131"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "100,143,196,245,292,335,374",
+                        "endColumns": "42,52,48,46,42,38,38",
+                        "endOffsets": "138,191,240,287,330,369,408"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\siddhesh\\AndroidStudioProjects\\FilmEnthusiasts\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -54,23 +71,6 @@
                         "startOffsets": "413,483,567,651,747,849,951,4426",
                         "endColumns": "69,83,83,95,101,101,93,88",
                         "endOffsets": "478,562,646,742,844,946,1040,4510"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\src\\main\\res\\values-night\\strings.xml",
-                    "from": {
-                        "startLines": "8,5,6,4,7,2,3",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "333,185,239,137,289,57,97",
-                        "endColumns": "42,52,48,46,42,38,38",
-                        "endOffsets": "371,233,283,179,327,91,131"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "100,143,196,245,292,335,374",
-                        "endColumns": "42,52,48,46,42,38,38",
-                        "endOffsets": "138,191,240,287,330,369,408"
                     }
                 }
             ]

@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fa\\values-fa.xml",
+            "outputFile": "C:\\Users\\siddhesh\\AndroidStudioProjects\\FilmEnthusiasts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fa\\values-fa.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\siddhesh\\.gradle\\caches\\transforms-3\\36cdf5dbcc08234d686390d52065471d\\transformed\\core-1.8.0-alpha02\\res\\values-fa\\values-fa.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "90",
-                        "startColumns": "4",
-                        "startOffsets": "7516",
-                        "endColumns": "100",
-                        "endOffsets": "7612"
-                    }
-                },
                 {
                     "source": "C:\\Users\\siddhesh\\.gradle\\caches\\transforms-3\\402786d3f8dd3836d3b8e68e34bab33c\\transformed\\navigation-ui-2.3.5\\res\\values-fa\\values-fa.xml",
                     "from": {
@@ -54,6 +37,23 @@
                         "endLines": "5,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,88",
                         "endColumns": "12,81,96,128,83,62,89,68,59,90,63,58,66,61,54,122,57,60,54,71,136,80,81,99,73,73,85,66,65,70,76,80,72,73,69,73,85,73,88,91,73,72,88,50,66,82,83,61,63,62,93,106,92,104,77",
                         "endOffsets": "259,3031,3128,3257,3341,3404,3494,3563,3623,3714,3778,3837,3904,3966,4021,4144,4202,4263,4318,4390,4527,4608,4690,4790,4864,4938,5024,5091,5157,5228,5305,5386,5459,5533,5603,5677,5763,5837,5926,6018,6092,6165,6254,6305,6372,6455,6539,6601,6665,6728,6822,6929,7022,7127,7429"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\siddhesh\\.gradle\\caches\\transforms-3\\9df72d6715971608ef4e633d7d7fbff2\\transformed\\core-1.8.0-alpha03\\res\\values-fa\\values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "90",
+                        "startColumns": "4",
+                        "startOffsets": "7516",
+                        "endColumns": "100",
+                        "endOffsets": "7612"
                     }
                 },
                 {

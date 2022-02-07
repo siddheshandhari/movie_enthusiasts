@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
+            "outputFile": "C:\\Users\\siddhesh\\AndroidStudioProjects\\FilmEnthusiasts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\siddhesh\\.gradle\\caches\\transforms-3\\36cdf5dbcc08234d686390d52065471d\\transformed\\core-1.8.0-alpha02\\res\\values-eu\\values-eu.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "90",
-                        "startColumns": "4",
-                        "startOffsets": "7686",
-                        "endColumns": "100",
-                        "endOffsets": "7782"
-                    }
-                },
                 {
                     "source": "C:\\Users\\siddhesh\\.gradle\\caches\\transforms-3\\402786d3f8dd3836d3b8e68e34bab33c\\transformed\\navigation-ui-2.3.5\\res\\values-eu\\values-eu.xml",
                     "from": {
@@ -71,6 +54,23 @@
                         "startOffsets": "280,389,487,597,683,789,913,999,1080,1172,1266,1362,1456,1557,1651,1747,1844,1936,2029,2111,2220,2329,2428,2537,2644,2755,2926,7603",
                         "endColumns": "108,97,109,85,105,123,85,80,91,93,95,93,100,93,95,96,91,92,81,108,108,98,108,106,110,170,98,82",
                         "endOffsets": "384,482,592,678,784,908,994,1075,1167,1261,1357,1451,1552,1646,1742,1839,1931,2024,2106,2215,2324,2423,2532,2639,2750,2921,3020,7681"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\siddhesh\\.gradle\\caches\\transforms-3\\9df72d6715971608ef4e633d7d7fbff2\\transformed\\core-1.8.0-alpha03\\res\\values-eu\\values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "90",
+                        "startColumns": "4",
+                        "startOffsets": "7686",
+                        "endColumns": "100",
+                        "endOffsets": "7782"
                     }
                 }
             ]

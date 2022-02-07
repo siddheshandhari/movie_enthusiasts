@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
-import androidx.recyclerview.widget.RecyclerView;
+import androidx.fragment.app.FragmentContainerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.filmenthusiasts.R;
@@ -20,12 +20,12 @@ public final class ActivityMainBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final RecyclerView mainActivityRecyclerview;
+  public final FragmentContainerView mainFragment;
 
   private ActivityMainBinding(@NonNull ConstraintLayout rootView,
-      @NonNull RecyclerView mainActivityRecyclerview) {
+      @NonNull FragmentContainerView mainFragment) {
     this.rootView = rootView;
-    this.mainActivityRecyclerview = mainActivityRecyclerview;
+    this.mainFragment = mainFragment;
   }
 
   @Override
@@ -55,13 +55,13 @@ public final class ActivityMainBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.main_activity_recyclerview;
-      RecyclerView mainActivityRecyclerview = ViewBindings.findChildViewById(rootView, id);
-      if (mainActivityRecyclerview == null) {
+      id = R.id.main_fragment;
+      FragmentContainerView mainFragment = ViewBindings.findChildViewById(rootView, id);
+      if (mainFragment == null) {
         break missingId;
       }
 
-      return new ActivityMainBinding((ConstraintLayout) rootView, mainActivityRecyclerview);
+      return new ActivityMainBinding((ConstraintLayout) rootView, mainFragment);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\siddhesh\\AndroidStudioProjects\\Omni-Notes-develop\\FilmEnthusiasts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr\\values-tr.xml",
+            "outputFile": "C:\\Users\\siddhesh\\AndroidStudioProjects\\FilmEnthusiasts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr\\values-tr.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\siddhesh\\.gradle\\caches\\transforms-3\\9df72d6715971608ef4e633d7d7fbff2\\transformed\\core-1.8.0-alpha03\\res\\values-tr\\values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "90",
+                        "startColumns": "4",
+                        "startOffsets": "7521",
+                        "endColumns": "100",
+                        "endOffsets": "7617"
+                    }
+                },
                 {
                     "source": "C:\\Users\\siddhesh\\.gradle\\caches\\transforms-3\\7c35e9ced6058ee9ee419dce8130dd8e\\transformed\\appcompat-1.4.1\\res\\values-tr\\values-tr.xml",
                     "from": {
@@ -37,23 +54,6 @@
                         "endLines": "5,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,88",
                         "endColumns": "12,76,95,111,81,63,90,76,60,90,62,58,68,62,53,107,57,61,53,72,120,83,90,109,76,75,86,66,65,69,76,82,70,74,77,70,84,88,94,92,71,71,95,51,66,83,89,61,63,62,93,95,88,96,78",
                         "endOffsets": "265,3034,3130,3242,3324,3388,3479,3556,3617,3708,3771,3830,3899,3962,4016,4124,4182,4244,4298,4371,4492,4576,4667,4777,4854,4930,5017,5084,5150,5220,5297,5380,5451,5526,5604,5675,5760,5849,5944,6037,6109,6181,6277,6329,6396,6480,6570,6632,6696,6759,6853,6949,7038,7135,7436"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\siddhesh\\.gradle\\caches\\transforms-3\\36cdf5dbcc08234d686390d52065471d\\transformed\\core-1.8.0-alpha02\\res\\values-tr\\values-tr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "90",
-                        "startColumns": "4",
-                        "startOffsets": "7521",
-                        "endColumns": "100",
-                        "endOffsets": "7617"
                     }
                 },
                 {

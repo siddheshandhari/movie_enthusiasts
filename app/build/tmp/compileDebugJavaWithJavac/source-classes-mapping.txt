@@ -1,36 +1,38 @@
+com/example/filmenthusiasts/viewModel/MovieDetailViewModel.java
+ com.example.filmenthusiasts.viewModel.MovieDetailViewModel
 com/example/filmenthusiasts/network/RestfulApiService.java
  com.example.filmenthusiasts.network.RestfulApiService
 com/example/filmenthusiasts/databinding/FragmentSecondBinding.java
  com.example.filmenthusiasts.databinding.FragmentSecondBinding
-com/example/filmenthusiasts/activities/main_activity/MainActivityViewModel.java
- com.example.filmenthusiasts.activities.main_activity.MainActivityViewModel
-com/example/filmenthusiasts/databinding/ContentMovieDetailsBinding.java
- com.example.filmenthusiasts.databinding.ContentMovieDetailsBinding
+com/example/filmenthusiasts/ui/MovieDetailFragment.java
+ com.example.filmenthusiasts.ui.MovieDetailFragment
+com/example/filmenthusiasts/ui/MovieListFragment.java
+ com.example.filmenthusiasts.ui.MovieListFragment
 com/example/filmenthusiasts/databinding/ActivityMainBinding.java
  com.example.filmenthusiasts.databinding.ActivityMainBinding
-com/example/filmenthusiasts/databinding/ActivityMovieDetailsBinding.java
- com.example.filmenthusiasts.databinding.ActivityMovieDetailsBinding
-com/example/filmenthusiasts/databinding/WebviewBinding.java
- com.example.filmenthusiasts.databinding.WebviewBinding
+com/example/filmenthusiasts/databinding/FragmentMovieListBinding.java
+ com.example.filmenthusiasts.databinding.FragmentMovieListBinding
+com/example/filmenthusiasts/viewModel/MovieListViewModel.java
+ com.example.filmenthusiasts.viewModel.MovieListViewModel
+com/example/filmenthusiasts/data/MovieByRankSource.java
+ com.example.filmenthusiasts.data.MovieByRankSource
+ com.example.filmenthusiasts.data.MovieByRankSource$1
+ com.example.filmenthusiasts.data.MovieByRankSource$2
 com/example/filmenthusiasts/network/RetrofitClientInstance.java
  com.example.filmenthusiasts.network.RetrofitClientInstance
-com/example/filmenthusiasts/activities/main_activity/MainActivity.java
- com.example.filmenthusiasts.activities.main_activity.MainActivity
 com/example/filmenthusiasts/BuildConfig.java
  com.example.filmenthusiasts.BuildConfig
-com/example/filmenthusiasts/activities/main_activity/MainActivityModel.java
- com.example.filmenthusiasts.activities.main_activity.MainActivityModel
- com.example.filmenthusiasts.activities.main_activity.MainActivityModel$1
- com.example.filmenthusiasts.activities.main_activity.MainActivityModel$2
- com.example.filmenthusiasts.activities.main_activity.MainActivityModel$3
+com/example/filmenthusiasts/ui/MainActivity.java
+ com.example.filmenthusiasts.ui.MainActivity
+com/example/filmenthusiasts/databinding/FragmentMovieDetailBinding.java
+ com.example.filmenthusiasts.databinding.FragmentMovieDetailBinding
 com/example/filmenthusiasts/databinding/MovieRowBinding.java
  com.example.filmenthusiasts.databinding.MovieRowBinding
 com/example/filmenthusiasts/adapter/AllMovieAdapter.java
  com.example.filmenthusiasts.adapter.AllMovieAdapter
  com.example.filmenthusiasts.adapter.AllMovieAdapter$AllMovieViewHolder
+com/example/filmenthusiasts/data/MovieDetailSource.java
+ com.example.filmenthusiasts.data.MovieDetailSource
+ com.example.filmenthusiasts.data.MovieDetailSource$1
 com/example/filmenthusiasts/utils/Constants.java
  com.example.filmenthusiasts.utils.Constants
-com/example/filmenthusiasts/activities/movie_details/MovieDetailsActivity.java
- com.example.filmenthusiasts.activities.movie_details.MovieDetailsActivity
-com/example/filmenthusiasts/activities/website_webview/WebsiteActivity.java
- com.example.filmenthusiasts.activities.website_webview.WebsiteActivity
